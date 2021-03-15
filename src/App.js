@@ -22,11 +22,9 @@ function App() {
         currentCategory={currentCategory}
       ></Nav>
       <main>
-        <div>
           <ContactForm></ContactForm>
           <Gallery currentCategory={currentCategory}></Gallery>
           <About></About>
-        </div>
       </main>
     </div>
   );
