@@ -1,8 +1,7 @@
 {
-  "homepage": "http://mikegshelby.github.io/photo-port",
   "name": "photo-port",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://mikegshelby.github.io/photo-port",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
