@@ -1,8 +1,8 @@
-# Budget Tracker
+# React Photography Portfolio (generic example)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description and Purpose
-A sample photography portfolio project created with Create React App.
+An example photography portfolio project created with Create React App.
 
 ## Table of Contents
   - [Description and Purpose](#description-and-purpose)
