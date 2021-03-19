@@ -1,7 +1,8 @@
 {
   "name": "photo-port",
   "version": "0.1.0",
-  "homepage": "https://mikegshelby.github.io/photo-port",
+  // "homepage": "https://mikegshelby.github.io/photo-port",
+  "homepage": "git@github.com:MikeGShelby/photo-port.git",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
